@@ -1,0 +1,2 @@
+# ZGIT
+Yazılım Stajı Github
